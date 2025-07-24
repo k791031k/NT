@@ -29,14 +29,14 @@ javascript:(function() {
             CHANNEL_CLASSIFIED: 'channelClassified',
         },
         MASTER_STATUS_TYPES: {
-            CURRENTLY_SOLD: 'currently sold',
-            DISCONTINUED: 'discontinued',
-            ABNORMAL_DATE: 'abnormal date',
-            COMING_SOON: 'coming soon',
+            CURRENTLY_SOLD: '現正熱賣',
+            DISCONTINUED: '停止銷售',
+            ABNORMAL_DATE: '日期異常',
+            COMING_SOON: '即將開賣',
         },
         // [v29.2.0] 新增通路銷售範圍文字設定
         CHANNEL_STATUS_OPTIONS: {
-            IN_SALE: '尚在銷售',
+            IN_SALE: '現正熱賣',
             STOP_SALE: '停止銷售',
         },
         API_ENDPOINTS: {
